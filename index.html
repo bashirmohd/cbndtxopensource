@@ -1,24 +1,45 @@
 <html>
-    <head>
-    <meta charset="utf-8" />
-    <title>CBN DTx - CBN DTx</title>
-    </head>
-        <body>
-            <h1>Hello Bash Bot!</h2>
+
+    <head>
+
+    <meta charset="UTF-8">
+
+    <title>Hello World</title>
+
+    </head>
+
+        <body>
+
+            <h1>Hello from Your name!</h1>
+
 <div id="webchat"/>
+
 <script src="https://storage.googleapis.com/mrbot-cdn/webchat-latest.js"></script>
+
+// Or you can replace latest with a specific version
+
 <script>
-  WebChat.default.init({
-    selector: "#webchat",
-    initPayload: "/get_started",
-    customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
-    socketUrl: "http://localhost:5500",
-    socketPath: "/socket.io/",
-    title: "DTx AI-Bot",
-    subtitle: "Subtitle",
-  })
-</script>   
-        
-    </body>
+
+  WebChat.default.init({
+
+    selector: "#webchat",
+
+    customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+
+    socketUrl: "http://localhost:5005",
+
+    socketPath: "/socket.io/",
+
+    title: "your name",
+
+    subtitle: "first bot ever!",
+
+    params: {"storage": "session"} 
+
+  })
+
+</script>
+
+        </body>
+
 </html>
-        
