@@ -44,30 +44,24 @@
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Questions? Chat with us</a>
             <!--    <iframe src='https://webchat.botframework.com/embed/dtx-al-bot-q-bot?s=fvi_8jkEw1c.o1-MD57TQRvuyFcgYzLmi5ccIsPjaBjDk01QjPoewbI'  style='min-width: 400px; width: 70%; min-height: 400px;'></iframe> -->
 <div id="webchat"/>
-
 <script src="https://storage.googleapis.com/mrbot-cdn/webchat-latest.js"></script>
-
+//Or you can replace latest with a specific version
+<div id="webchat"></div>
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
+// you can add a version tag if you need, e.g for version 0.11.5 https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.5/lib/index.min.js
 <script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "/get_started",
+    customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
+    socketUrl: "http://localhost:5005",
+    socketPath: "/socket.io/",
+    title: "DTx AI-Bot",
+    subtitle: "CBN DTx Intelligence",
+    params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
+  })
+</script>
 
-  WebChat.default.init({
-
-    selector: "#webchat",
-
-    customData: {"language": "en"}, // arbitrary custom data. Stay minimal as this will be added to the socket
-
-    socketUrl: "http://localhost:5005",
-
-    socketPath: "/socket.io/",
-
-    title: "DTx AI-Bot",
-
-    subtitle: "CBN DTx Intelligence!",
-
-    params: {"storage": "session"} 
-
-  })
-
-</script>   
                 <br/>
             </div>
         </header>
