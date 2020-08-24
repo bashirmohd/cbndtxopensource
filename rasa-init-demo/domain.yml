@@ -1,0 +1,60 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greet
+- affirm
+- deny
+- mood_great
+- mood_unhappy
+- bot_challenge
+- goodbye
+- cbn_faq_it1
+- cbn_faq_it2
+- cbn_faq_it3
+- cbn_faq_it4
+- cbn_faq_it5
+- cbn_faq_bs1
+responses:
+  utter_greet:
+  - text: Hi! I am Rakiya ! Your AI-Bot assistant. How can I help you today?
+  utter_cbn_faq_it1:
+  - text: 1. Enterprise Resource Planning (ERP) 2. Temenos T24 3. electonic Financial
+      Analysis and Surveillance System (eFASS) 4. Real Time Gross Settlement System
+      (RTGS) 5. Enterprise Management and Security System EMS) 6. Corporate Performance
+      Management System (CPM)
+  utter_cbn_faq_it2:
+  - text: It is an acronym for electronic Financial Analysis and Surveillance System.
+  utter_cbn_faq_it3:
+  - text: It is an acronym for Enterprise Resource Planning.
+  utter_cbn_faq_it4:
+  - text: RTGS is an acronym for Real Time Gross Settlement.
+  utter_cbn_faq_it5:
+  - text: It is an acronym for TEMENOS T24. It is being interfaced with a number of applications being deployed
+      in the Bank. These include Oracle ERP (GL, VMS, AP, etc); RTGS; eFASS; MICR;
+      BANKOS.
+  utter_cbn_faq_bs1:
+  - text: Transfers are normally effected within 24 hours after FAAC meeting.
+  utter_cheer_up:
+  - image: https://i.imgur.com/nGF1K8f.jpg
+    text: 'Here is something to cheer you up:'
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_happy:
+  - text: Great, carry on!
+  utter_goodbye:
+  - text: Hi! I am Rakiya! Your AI-Bot assistant. How can I help you today?
+  utter_iamabot:
+  - text: I am a bot, powered by the DTx team.
+actions:
+- utter_greet
+- utter_goodbye
+- utter_iamabot
+- utter_cheer_up
+- utter_did_that_help
+- utter_cbn_faq_it1
+- utter_cbn_faq_it2
+- utter_cbn_faq_it3
+- utter_cbn_faq_it4
+- utter_cbn_faq_it5
+- utter_cbn_faq_bs1
