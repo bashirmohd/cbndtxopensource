@@ -81,6 +81,7 @@
 
 ## intent:cbn_faq_bs2
 - When do we normally apply Cash Reserve Requirement (CRR) to the account of Deposit Money Banks?
+- When do we normally apply Cash Reserve Requirement (CRR) to the account of DMBs?
 
 ## intent:cbn_faq_bs3
 - When do we release Joint Venture Cash-Call (JVC)?
