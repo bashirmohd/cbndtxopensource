@@ -15,6 +15,10 @@ intents:
 - cbn_faq_it4
 - cbn_faq_it5
 - cbn_faq_bs1
+- cbn_faq_bs2
+- cbn_faq_bs3
+- cbn_faq_bs4
+
 responses:
   utter_greet:
   - text: Hi! I am Rakiya ! Your AI-Bot assistant. How can I help you today?
@@ -46,6 +50,7 @@ responses:
   - text: Hi! I am Rakiya! Your AI-Bot assistant. How can I help you today?
   utter_iamabot:
   - text: I am a bot, powered by the DTx team.
+
 actions:
 - utter_greet
 - utter_goodbye
