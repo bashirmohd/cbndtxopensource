@@ -15,6 +15,15 @@ intents:
 - cbn_faq_it4
 - cbn_faq_it5
 - cbn_faq_bs1
+- cbn_faq_dfd25
+- cbn_faq_dfd26
+- cbn_faq_dfd27
+- cbn_faq_dfd28
+- cbn_faq_dfd29
+- cbn_faq_dfd30
+- cbn_faq_dfd31
+- cbn_faq_dfd32
+- cbn_faq_dfd33
 responses:
   utter_greet:
   - text: Hi! I am Rakiya ! Your AI-Bot assistant. How can I help you today?
