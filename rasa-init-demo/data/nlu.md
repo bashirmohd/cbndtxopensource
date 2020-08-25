@@ -79,3 +79,17 @@
 ## intent:cbn_faq_bs1
 - How soon do we make transfer of payment instruction after Federation Account Allocation Committee (FAAC) meeting?
 
+## intent:cbn_faq_sr1
+- After completing the online Registration, what is the next step?
+
+## intent:cbn_faq_sr2
+- It has been difficult to access the Supplier Registration Web Page. What do we do in order to beat the deadline for the new online Registration?
+- How do I complete registration if I cannot access the site
+
+## intent:cbn_faq_sr3
+- Though the Supplier Registration Page can be accessed, the system could not generate tracking number to enable Suppliers fill the "Specific Page" and complete the registration?
+- How do suppliers get a tracking number to complete registration?
+
+## intent:cbn_faq_sr4
+- When will verification of documents start?
+
