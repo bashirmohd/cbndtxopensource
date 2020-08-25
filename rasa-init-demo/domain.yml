@@ -69,3 +69,6 @@ actions:
 - utter_cbn_faq_it4
 - utter_cbn_faq_it5
 - utter_cbn_faq_bs1
+- utter_cbn_faq_bs2
+- utter_cbn_faq_bs3
+- utter_cbn_faq_bs4
