@@ -40,7 +40,7 @@ responses:
   utter_cbn_faq_bs1:
   - text: Transfers are normally effected within 24 hours after FAAC meeting.
   utter_cbn_faq_bs2:
-  - text: Cash Reserve Requirement transactions are normally applied within first week of every month..
+  - text: Cash Reserve Requirement transactions are normally applied within first week of every month.
   utter_cbn_faq_bs3:
   - text: JVC releases are made in the last week of every month.
   utter_cbn_faq_bs4:
