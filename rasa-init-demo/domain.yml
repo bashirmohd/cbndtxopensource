@@ -28,7 +28,8 @@ responses:
   utter_greet:
   - text: Hi! I am Rakiya ! Your AI-Bot assistant. How can I help you today?
   utter_cbn_faq_it1:
-  - text: 1. Enterprise Resource Planning (ERP) 2. Temenos T24 3. electonic Financial
+  - text: >
+      1. Enterprise Resource Planning (ERP) 2. Temenos T24 3. electonic Financial
       Analysis and Surveillance System (eFASS) 4. Real Time Gross Settlement System
       (RTGS) 5. Enterprise Management and Security System EMS) 6. Corporate Performance
       Management System (CPM)
@@ -39,7 +40,8 @@ responses:
   utter_cbn_faq_it4:
   - text: RTGS is an acronym for Real Time Gross Settlement.
   utter_cbn_faq_it5:
-  - text: It is an acronym for TEMENOS T24. It is being interfaced with a number of applications being deployed
+  - text: >
+      It is an acronym for TEMENOS T24. It is being interfaced with a number of applications being deployed
       in the Bank. These include Oracle ERP (GL, VMS, AP, etc); RTGS; eFASS; MICR;
       BANKOS.
   utter_cbn_faq_bs1:
@@ -47,10 +49,11 @@ responses:
   utter_cbn_faq_dfd25:
   - text: Every legal business in every sector of the economy is qualified for adoption as a SMEEIS project with the exception of trading and financial/bank related investment.
   utter_cbn_faq_dfd26:
-  - text: a) Prepare a feasibility report,<br/>
-    b) Prepare a 5 year business plan stating the intervention required under the SMEEIS.<br/>
-    c) Approach any of the banks in Nigeria.<br/>
-    d) The bank will then assess the proposals and communicate approval or otherwise to you.
+  - text: >
+      a) Prepare a feasibility report,\n
+      b) Prepare a 5 year business plan stating the intervention required under the SMEEIS.\n
+      c) Approach any of the banks in Nigeria.\n
+      d) The bank will then assess the proposals and communicate approval or otherwise to you.
   utter_cbn_faq_dfd27:
   - text: The SMEEIS guidelines allow investing banks to own either ordinary or preferential shares.
   utter_cbn_faq_dfd28:
@@ -60,9 +63,10 @@ responses:
   utter_cbn_faq_dfd30:
   - text: The total amount set aside under the SMEEIS by any bank is always stated in its annual audited accounts under SMEEIS Reserve.
   utter_cbn_faq_dfd31:
-  - text: After investing in any project, the bank sends periodic returns to the Central Bank of Nigeria for verification.
-    The CBN may accept such project after verifying that the investments comply with the SMEEIS guidelines and consequently listed as part of the SMEEIS projects.
-    The project is rejected when the investment does not comply with the guidelines.
+  - text: >
+      After investing in any project, the bank sends periodic returns to the Central Bank of Nigeria for verification.
+      The CBN may accept such project after verifying that the investments comply with the SMEEIS guidelines and consequently listed as part of the SMEEIS projects.
+      The project is rejected when the investment does not comply with the guidelines.
   utter_cbn_faq_dfd32:
   - text: SMEEIS means Small and Medium Enterprises Equity Investment Scheme. It was initiated by the Banker’s Committee at its 246th meeting held on 21st December, 1999.
   utter_cbn_faq_dfd33:
