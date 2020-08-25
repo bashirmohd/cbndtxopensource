@@ -79,3 +79,12 @@
 ## intent:cbn_faq_bs1
 - How soon do we make transfer of payment instruction after Federation Account Allocation Committee (FAAC) meeting?
 
+## intent:cbn_faq_bs2
+- When do we normally apply Cash Reserve Requirement (CRR) to the account of Deposit Money Banks?
+
+## intent:cbn_faq_bs3
+- When do we release Joint Venture Cash-Call (JVC)?
+
+## intent:cbn_faq_bs4
+- Why does it take banks many days to credit the account of customers even after consolidation of banks?
+- Why does it long to credit the account of customers even after consolidation of banks?
