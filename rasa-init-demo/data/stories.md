@@ -53,3 +53,19 @@
 ## How soon do we make transfer of payment instruction after Federation Account Allocation Committee (FAAC) meeting?
 * cbn_faq_bs1
   - utter_cbn_faq_bs1
+
+## After completing the online Registration, what is the next step?
+* cbn_faq_sr1
+  - utter_cbn_faq_sr1
+
+## How do I complete registration if I cannot access the site
+* cbn_faq_sr2
+  - utter_cbn_faq_sr2
+
+## How do suppliers get a tracking number to complete registration?
+* cbn_faq_sr3
+  - utter_cbn_faq_sr3
+
+## When will verification of documents start?
+* cbn_faq_sr4
+  - utter_cbn_faq_sr4
