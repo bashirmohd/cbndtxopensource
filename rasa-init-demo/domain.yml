@@ -39,6 +39,14 @@ responses:
       BANKOS.
   utter_cbn_faq_bs1:
   - text: Transfers are normally effected within 24 hours after FAAC meeting.
+  utter_cbn_faq_sr1:
+  - text: The Supplier shall be advised through e-mail to pay a Processing Fee of N1000.00 at any CBN location of his choice. He/She will then submit his/her documents (copies) along with evidence of payment to the CBN location.
+  utter_cbn_faq_sr2:
+  - text: The deadline has been extended to accommodate all those who are still interested in registering with the Bank. However, efforts are being made to ensure the stability of the site.
+  utter_cbn_faq_sr3:
+  - text: The tracking number shall be forwarded to the Supplier’s e-mail address by the Supplier Management Office of the Procurement & Support Services Department for the completion of the on-line registration.
+  utter_cbn_faq_sr4:
+  - text: Verification of Business Premises and Addresses will start after the Department must have confirmed that the application has been completed and photo copies sighted by the Supplier Management Office.
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
     text: 'Here is something to cheer you up:'
