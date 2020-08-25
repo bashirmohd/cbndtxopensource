@@ -70,3 +70,7 @@ actions:
 - utter_cbn_faq_it4
 - utter_cbn_faq_it5
 - utter_cbn_faq_bs1
+- utter_cbn_faq_sr1
+- utter_cbn_faq_sr2
+- utter_cbn_faq_sr3
+- utter_cbn_faq_sr4
