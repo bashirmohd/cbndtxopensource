@@ -44,7 +44,7 @@ responses:
   utter_cbn_faq_sr2:
   - text: The deadline has been extended to accommodate all those who are still interested in registering with the Bank. However, efforts are being made to ensure the stability of the site.
   utter_cbn_faq_sr3:
-  - text: The tracking number shall be forwarded to the Supplier’s e-mail address by the Supplier Management Office of the Procurement & Support Services Department for the completion of the on-line registration.
+  - text: The tracking number shall be forwarded to the Supplier’s e-mail address by the Supplier Management Office of the Procurement & Support Services Department for the completion of the online registration.
   utter_cbn_faq_sr4:
   - text: Verification of Business Premises and Addresses will start after the Department must have confirmed that the application has been completed and photo copies sighted by the Supplier Management Office.
   utter_cheer_up:

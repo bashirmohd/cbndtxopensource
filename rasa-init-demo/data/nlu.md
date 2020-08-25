@@ -80,7 +80,8 @@
 - How soon do we make transfer of payment instruction after Federation Account Allocation Committee (FAAC) meeting?
 
 ## intent:cbn_faq_sr1
-- After completing the online Registration, what is the next step?
+- After completing the online supplier Registration, what is the next step?
+- What is next after completing supplier registration
 
 ## intent:cbn_faq_sr2
 - It has been difficult to access the Supplier Registration Web Page. What do we do in order to beat the deadline for the new online Registration?
