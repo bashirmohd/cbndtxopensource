@@ -50,9 +50,9 @@ responses:
   - text: Every legal business in every sector of the economy is qualified for adoption as a SMEEIS project with the exception of trading and financial/bank related investment.
   utter_cbn_faq_dfd26:
   - text: >
-      a) Prepare a feasibility report,\n
-      b) Prepare a 5 year business plan stating the intervention required under the SMEEIS.\n
-      c) Approach any of the banks in Nigeria.\n
+      a) Prepare a feasibility report,
+      b) Prepare a 5 year business plan stating the intervention required under the SMEEIS,
+      c) Approach any of the banks in Nigeria,
       d) The bank will then assess the proposals and communicate approval or otherwise to you.
   utter_cbn_faq_dfd27:
   - text: The SMEEIS guidelines allow investing banks to own either ordinary or preferential shares.

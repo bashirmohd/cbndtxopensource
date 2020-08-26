@@ -81,6 +81,7 @@
 
 ## intent:cbn_faq_dfd25
 - What sector of the Economy is covered under the SMEEIS?
+- What sectors of the Economy are not covered under the SMEEIS?
 
 ## intent:cbn_faq_dfd26
 - What steps do I need to take to be considered under the SMEEIS?
@@ -99,9 +100,12 @@
 
 ## intent:cbn_faq_dfd31
 - How is the verified SMEEIS project Register updated?
+- What criteria is used when verifying a SMEEIS project?
 
 ## intent:cbn_faq_dfd32
 - What is SMEEIS?
+- What does SMEEIS stand for?
+- What is the full meaning of SMEEIS?
 
 ## intent:cbn_faq_dfd33
 - What is the opportunity for micro enterprises under the SMEEIS?
