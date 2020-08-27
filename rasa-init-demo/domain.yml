@@ -14,7 +14,35 @@ intents:
 - cbn_faq_it3
 - cbn_faq_it4
 - cbn_faq_it5
-- cbn_faq_bs1
+- cbn_faq_df1
+- cbn_faq_df2
+- cbn_faq_df3
+- cbn_faq_lc1
+- cbn_faq_lc2
+- cbn_faq_dfd1
+- cbn_faq_dfd2
+- cbn_faq_dfd3
+- cbn_faq_dfd4
+- cbn_faq_dfd5
+- cbn_faq_dfd6
+- cbn_faq_dfd7
+- cbn_faq_dfd8
+- cbn_faq_dfd9
+- cbn_faq_dfd10
+- cbn_faq_dfd11
+- cbn_faq_dfd12
+- cbn_faq_dfd13
+- cbn_faq_dfd14
+- cbn_faq_dfd15
+- cbn_faq_dfd16
+- cbn_faq_dfd17
+- cbn_faq_dfd18
+- cbn_faq_dfd19
+- cbn_faq_dfd20
+- cbn_faq_dfd21
+- cbn_faq_dfd22
+- cbn_faq_dfd23
+- cbn_faq_dfd24
 - cbn_faq_dfd25
 - cbn_faq_dfd26
 - cbn_faq_dfd27
@@ -24,62 +52,186 @@ intents:
 - cbn_faq_dfd31
 - cbn_faq_dfd32
 - cbn_faq_dfd33
+- cbn_faq_dfd34
 responses:
   utter_greet:
-  - text: Hi! I am Rakiya ! Your AI-Bot assistant. How can I help you today?
+  - text: Hi! I am Rakiya! Your AI-Bot assistant. Its good to see you today?
+
   utter_cbn_faq_it1:
-  - text: >
-      1. Enterprise Resource Planning (ERP) 2. Temenos T24 3. electonic Financial
+  - text: 1. Enterprise Resource Planning (ERP) 2. Temenos T24 3. electonic Financial
       Analysis and Surveillance System (eFASS) 4. Real Time Gross Settlement System
       (RTGS) 5. Enterprise Management and Security System EMS) 6. Corporate Performance
       Management System (CPM)
+
   utter_cbn_faq_it2:
   - text: It is an acronym for electronic Financial Analysis and Surveillance System.
+
   utter_cbn_faq_it3:
   - text: It is an acronym for Enterprise Resource Planning.
+
   utter_cbn_faq_it4:
   - text: RTGS is an acronym for Real Time Gross Settlement.
+
   utter_cbn_faq_it5:
-  - text: >
-      It is an acronym for TEMENOS T24. It is being interfaced with a number of applications being deployed
+  - text: It is an acronym for TEMENOS T24. It is being interfaced with a number of applications being deployed
       in the Bank. These include Oracle ERP (GL, VMS, AP, etc); RTGS; eFASS; MICR;
       BANKOS.
-  utter_cbn_faq_bs1:
-  - text: Transfers are normally effected within 24 hours after FAAC meeting.
+
+  utter_cbn_faq_dfd1:
+  - text: ABP Stands for the Anchor Borrowers Program.
+
+  utter_cbn_faq_dfd2:
+  - text: ​MSMEDEF, stands for Micro, Small and Medium Enterprise Development fund.
+
+
+  utter_cbn_faq_dfd3:
+  - text: The Agricultural Credit Guarantee Scheme Fund (ACGSF) was established by Decree No. 20 of 1977 to mitigate the risks of banks in agricultural lending and hence encourage them to continue to extend credit to it. It provides guarantee cover to banks who give loans to the agricultural sector of the economy.
+
+          The Scheme guarantees 75% of all outstanding loans in case of default , and after realizing the security. The Scheme has an authorized share capital of N3 billion controlled by the Federal Government (60%) and the CBN (40%). 
+          ​
+          The Scheme is managed by the CBN, through its Development Finance Department. The Scheme has an eight-man Board.
+
+  utter_cbn_faq_dfd4:
+  - text: You can go to any commercial bank or Central Bank branch office in Nigeria and make enquiries there.
+          ​
+
+  utter_cbn_faq_dfd5:
+  - text: You must be a farmer. You must provide collateral if your loan amount is above N20,000. The collateral must be in a tangible form or in form of 25% cash security of the intended loan amount in the form of savings.
+          ​
+
+  utter_cbn_faq_dfd6:
+    - text: Small farmers have benefited immensely from ACGS. This group of farmers form 90% of the beneficiaries since the inception of the Scheme. 
+            ​
+
+  utter_cbn_faq_dfd7:
+    - text: N20,000.00 (twenty thousand naira) and below without collateral. For amounts higher than N20,000.00, you will need to provide collateral.
+            ​
+
+  utter_cbn_faq_dfd8:
+    - text: A farmer intending to obtain a loan must first open account with a bank operating the Agric Credit Guarantee Scheme. You should request for the ACGS application form, complete and return to the bank. You will provide collateral for the loan amount required except where the loans do not require collateral. Finally, you will also need insurance cover from the Nigerian Agricultural Insurance Corporation (NAIC).
+            ​
+
+  utter_cbn_faq_dfd9:
+    - text: By establishing a Trust Fund with banks that will serve as the platform for lending to the host community, the Trust Fund will form part of the guarantee. 
+            ​
+
+  utter_cbn_faq_dfd10:
+    - text: You must be a farmer. You must provide collateral if your loan amount is above N20,000. The collateral must be in a tangible form or in form of 25% cash security of the intended loan amount in the form of savings.
+            ​
+  utter_cbn_faq_lc1:
+  - text: Yes. As a legal entity created by an Act of Parliament the Central Bank
+      of Nigeria is a juristic person and can therefore sue and be sued as
+      stated in section 1(2) of the Central Bank of Nigeria Act.
+
+  utter_cbn_faq_lc2:
+  - text: The Central Bank of Nigeria derives its regulatory and supervisory
+      powers from the Central Bank of Nigeria Act, 1991 and Banks and
+      Other Financial Institutions Act, 1991 (As Amended).
+
+  utter_cbn_faq_dfd11:
+  - text: You can use cash in the bank, stock and shares, life insurance policies,
+      landed property, debenture, guarantors and any other item acceptable by the lending bank.
+
+  utter_cbn_faq_dfd12:
+  - text: The agricultural activities eligible for guarantee under the Scheme, include the following;
+      (i) The establishment or management of the production of rubber, oil palm, cocoa, coffee, tea and similar crops;
+      (ii) The cultivation or production of cereal crops, tubers, fruits of all kinds, cotton, beans, groundnuts,
+      sheanuts, benniseed, vegetables, pineapples, banana and plantains;
+      (iii) Animal husbandry viz, poultry, piggery, cattle rearing and the like, fish farming and fish capture and
+      (iv) Processing in general where it is integrated with at least 50.0 per cent of farm output e.g. cassava to
+      garri, oil palm to palm oil and kernel, groundnut to groundnut oil, etc.
+  utter_cbn_faq_dfd13:
+  - text: Under the ACGSF, farmers will borrow from lending banks including community banks at
+      market-determined rates.
+  utter_cbn_faq_dfd14:
+  - text: As many times as you wish provided you maintained good loan repayment record with your bank.
+  utter_cbn_faq_dfd15:
+  - text: You will need to discuss your proposal with your bank, complete necessary application forms,
+      and provide all the required information including things like size of your farm, project cost,
+      your own financial commitment, expected output returns and profitability of the project.
+  utter_cbn_faq_dfd16:
+  - text: It depends on the gestation period of the agricultural activity you are engaged in.
+  utter_cbn_faq_dfd17:
+  - text: You can still obtain a loan of N20,000.00 and below supported with a personal guarantee from a
+      reputable person in your community or more than N20,000.00 through being a member of Self Help
+      Group or Cooperative Society.
+  utter_cbn_faq_dfd18:
+  - text: It means you can obtain a loan of up to N1.0 million as an individual or up to N10.0 million as a
+      cooperative society or corporate entity.
+  utter_cbn_faq_dfd19:
+  - text: The Central Bank of Nigeria co-ordinates the activities of the Scheme through its Development
+      Finance Department which serves as the Secretariat of the Bankers Sub-committee on SMEEIS.
+  utter_cbn_faq_dfd20:
+  - text: Until 2005 universal banks (members of the Bankers’ Committee) agreed to set aside 10% of their
+      profit before Tax (PBT) annually for the Scheme. With effect from January, 2006 the amount to be
+      set aside by the banks has been changed to 10% of their profit after Tax (PAT).
+  utter_cbn_faq_dfd21:
+  - text: You can discuss with registered professional Fund Managers and Venture Capital Companies which
+      are either independent institutions or subsidiaries of the banks.
+
+  utter_cbn_faq_dfd22:
+  - text: To be eligible for bank’s investment under the Scheme, an enterprise, in addition to being a
+      permissible activity under the Scheme, must have a maximum asset base of N500 million (excluding
+      land and working capital), and with no lower limit of staff. In addition, the enterprise must fulfill the
+      following; a. Registration as a Limited Liability Company with Corporate Affairs Commission. b.
+      Compliance with all relevant regulations of the Company and Allied Matters Acts (1990) such as filling
+      of annual returns, including audited financial statements. c. Compliance with all applicable tax laws
+      and regulations and rendition of regular returns to the appropriate authorities.
+
+  utter_cbn_faq_dfd23:
+  - text: The bank has a maximum of three (3) years to remain a part owner of the business before the exit
+      strategy as contained in the Memorandum of Understanding (MOU) binding the business relationship.
+      However, if the other party so wishes, the equity arrangement could be renewed. The exit is by selling
+      its shares to the original or owners of the company.
+  utter_cbn_faq_dfd24:
+  - text: Every legal business in every sector of the economy is qualified for adoption as a SMEEIS project with
+      the exception of trading and financial/bank related investment.
+
   utter_cbn_faq_dfd25:
-  - text: Every legal business in every sector of the economy is qualified for adoption as a SMEEIS project with the exception of trading and financial/bank related investment.
-  utter_cbn_faq_dfd26:
-  - text: >
+  - text:
       a) Prepare a feasibility report,
       b) Prepare a 5 year business plan stating the intervention required under the SMEEIS,
       c) Approach any of the banks in Nigeria,
       d) The bank will then assess the proposals and communicate approval or otherwise to you.
-  utter_cbn_faq_dfd27:
+
+  utter_cbn_faq_dfd26:
   - text: The SMEEIS guidelines allow investing banks to own either ordinary or preferential shares.
-  utter_cbn_faq_dfd28:
+
+  utter_cbn_faq_dfd27:
   - text: The SMEEIS fund is part of the SMEEIS Reserves of the banks.
-  utter_cbn_faq_dfd29:
+
+  utter_cbn_faq_dfd28:
   - text: The CBN has a register for verified and accepted projects under SMEEIS.
-  utter_cbn_faq_dfd30:
+
+  utter_cbn_faq_dfd29:
   - text: The total amount set aside under the SMEEIS by any bank is always stated in its annual audited accounts under SMEEIS Reserve.
-  utter_cbn_faq_dfd31:
-  - text: >
+  utter_cbn_faq_dfd30:
+  - text:
       After investing in any project, the bank sends periodic returns to the Central Bank of Nigeria for verification.
       The CBN may accept such project after verifying that the investments comply with the SMEEIS guidelines and consequently listed as part of the SMEEIS projects.
       The project is rejected when the investment does not comply with the guidelines.
-  utter_cbn_faq_dfd32:
+
+  utter_cbn_faq_dfd31:
   - text: SMEEIS means Small and Medium Enterprises Equity Investment Scheme. It was initiated by the Banker’s Committee at its 246th meeting held on 21st December, 1999.
-  utter_cbn_faq_dfd33:
+
+  utter_cbn_faq_dfd32:
   - text: The guidelines stipulate that 10% SMEEIS funds should be set aside for micro financing in the form of equity investment in microfinance banks or wholesale funds for on-lending by microfinance banks.
+
+  utter_cbn_faq_dfd33:
+  - text: The objectives are to
+      a) Facilitate the flow of funds from banks for the establishment of new, viable SME projects, expansion of existing industries and rehabilitation of moribund ones.
+      b) Stimulate economic growth, Develop local technology, Promote indigenous entrepreneurship, Generate employment, and
+      c) Ensure output expansion, income re-distribution and production of intermediate goods meant to strengthen inter and intra-industrial linkages 
+          ​
   utter_cheer_up:
   - image: https://i.imgur.com/nGF1K8f.jpg
     text: 'Here is something to cheer you up:'
   utter_did_that_help:
   - text: Did that help you?
   utter_happy:
-  - text: Great, carry on!
+  - text: Hi! I am Rakiya! Your AI-Bot assistant. Its good to see you today?
   utter_goodbye:
-  - text: Hi! I am Rakiya! Your AI-Bot assistant. How can I help you today?
+  - text: Hi! I am Rakiya! Your AI-Bot assistant. Its good to see you today?
   utter_iamabot:
   - text: I am a bot, powered by the DTx team.
 actions:
@@ -93,7 +245,25 @@ actions:
 - utter_cbn_faq_it3
 - utter_cbn_faq_it4
 - utter_cbn_faq_it5
-- utter_cbn_faq_bs1
+- utter_cbn_faq_df1
+- utter_cbn_faq_df2
+- utter_cbn_faq_df3
+- utter_cbn_faq_lc1
+- utter_cbn_faq_lc2
+- utter_cbn_faq_dfd11
+- utter_cbn_faq_dfd12
+- utter_cbn_faq_dfd13
+- utter_cbn_faq_dfd14
+- utter_cbn_faq_dfd15
+- utter_cbn_faq_dfd16
+- utter_cbn_faq_dfd17
+- utter_cbn_faq_dfd18
+- utter_cbn_faq_dfd19
+- utter_cbn_faq_dfd20
+- utter_cbn_faq_dfd21
+- utter_cbn_faq_dfd22
+- utter_cbn_faq_dfd23
+- utter_cbn_faq_dfd24
 - utter_cbn_faq_dfd25
 - utter_cbn_faq_dfd26
 - utter_cbn_faq_dfd27
@@ -103,3 +273,6 @@ actions:
 - utter_cbn_faq_dfd31
 - utter_cbn_faq_dfd32
 - utter_cbn_faq_dfd33
+- utter_cbn_faq_dfd34
+- utter_cbn_faq_dfd35
+
